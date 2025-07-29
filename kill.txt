@@ -1,1 +1,1 @@
-sha256//8y9HyiEEekSobqiJUGzSihLcYman3mR3XuoqGGBD2p8=
+{"status":true,"data":{"modname":"MOD NAME","mod_status":"MOD STATUS - SAFE","credit":"FLOATING TEXT","token":"3a06e717dea8b61d5433a18fe19d5f2c","device":"500","EXP":"2026-07-25 16:42:53","globalstatus":"on","bgmistatus":"on","koreastatus":"on","tiwanstatus":"on","vngstatus":"on","Enc":"List Of Games","GAME":"3.9.0","APK":"1.1","URL":"https://vip-panel.top/bypass/test/kill.zip","NAME":"host","VERSION":"3.1","rng":1993440075}}
